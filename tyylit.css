@@ -5,3 +5,10 @@ h1 {
         background-color: rgb(167, 209, 69);
         text-align: center;
 }
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(129, 82, 173);
+    background-color: rgb(167, 209, 69);
+    text-align: center;
+}
