@@ -1,12 +1,12 @@
 h1 {
         font-family: Georgia, 'Times New Roman', Times, serif;
-        color: rgb(129, 82, 173);
+        color: #4d2b12;
         text-align: center;
 }
 
 h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: rgb(129, 82, 173);
+    color: #4d2b12;
     font-weight: 300;
     text-align: center;
 }
@@ -14,7 +14,7 @@ h2 {
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-    color: rgb(129, 82, 173);
+    color: #4d2b12;
     background-image: url(images/tausta.png);
 }
 
@@ -27,7 +27,7 @@ body {
 }
 
 footer {
-    background-color: rgb(129, 82, 173);
+    background-color: #4d2b12;
     padding: 16px 8px 16px 8px;
     margin-top: 32px;
     color: white;
@@ -36,7 +36,7 @@ footer {
 }
 
 a, a:visited, a:active {
-    color:rgb(97, 48, 100);
+    color:#4d2b12;
 }
 
 a:hover {
